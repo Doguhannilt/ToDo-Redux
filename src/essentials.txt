@@ -1,0 +1,19 @@
+Certainly! Here's a more polished and professional version:
+
+1. Add a Todo: []
+   - Users have the ability to add a new task to their list. Upon pressing "enter," the task should dynamically appear on the screen.
+
+2. Search Todos: []
+   - Users can efficiently search and locate specific tasks within their todo list, enhancing the overall usability of the application.
+
+3. Delete Todos: []
+   - The application provides users with the capability to remove tasks from their todo list, allowing for effective task management.
+
+4. Tagging System for Completion Status: []
+   - Todos can be visually marked or annotated with an icon or text, indicating whether they are marked as "completed" or "not completed."
+
+5. Filter Functionality: []
+   - Users can employ a filtering mechanism to display todos based on their completion status. This feature aids in organizing and focusing on specific subsets of tasks.
+
+Mark All Completed Button: []
+   - A dedicated button is available to users for marking all todos as completed simultaneously. This streamlines the process of managing a batch of completed tasks.
